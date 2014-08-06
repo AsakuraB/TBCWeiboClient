@@ -1,7 +1,7 @@
 TBCweiboClient
 ==============
 
-Self made Weibo Client demo
+Selfmade weibo client app
 
 注：因新浪App审核需要提供应用商店的下载链接（这个暂时还没有），暂时还无法通过，不能大范围推广使用。so提供测试账号一枚：
 
